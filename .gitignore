@@ -1,0 +1,17 @@
+# Python-generated files
+__pyCache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.__pyCache__/
+*.__pyc
+*.pyo
+# Virtual environments
+.venv/
+uv/
+venv/
+
+# streamlit caching
+.streamlit/
